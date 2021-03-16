@@ -1,0 +1,2 @@
+t1d ((((a).(t)).(e))*).(x) #
+" atex ateatex etax "
